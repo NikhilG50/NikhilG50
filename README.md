@@ -7,7 +7,6 @@
 
 - ⚡ Portfolio: [Click Hear](https://portfolio--nikhil.herokuapp.com/)
 
-- 💬 Ask me about ... Anything.
 - 📫 Contact me: 
     * [LinkedIn](https://www.linkedin.com/in/nikhil-g-207652165/)
 
