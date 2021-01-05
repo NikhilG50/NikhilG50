@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**NikhilG50/NikhilG50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤔 I’m looking for a job in Data science/Python development. (Feel free to rech me out if you like my profile)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Contact me: [Gmail](nikhilg.1093@gmail.com), [LinkedIn](https://www.linkedin.com/in/nikhil-g-207652165/)
+
+- ⚡ Portfolio: [Click Hear](https://portfolio--nikhil.herokuapp.com/)
+
+- 💬 Ask me about ... Anything.
+
+
+- Have a Nice Day 😄 
 -->
