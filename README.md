@@ -1,6 +1,6 @@
 ### Hello 👋
 
-🤔 I’m looking for a job in Data science/Python development. (Feel free to rech me out if you like my profile)
+🤔 I’m looking for a full time job in Data science/Python development. (Feel free to rech me out if you like my profile)
 
 
 
