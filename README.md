@@ -5,7 +5,7 @@
 
 
 
-- ⚡ Portfolio (Not Updated): [Click Hear](https://portfolio--nikhil.herokuapp.com/)
+- ⚡ Portfolio (Updated at sept-2020): [Click Hear](https://portfolio--nikhil.herokuapp.com/)
 
 - 📫 Contact me: 
     * [LinkedIn](https://www.linkedin.com/in/nikhil-g-207652165/)
